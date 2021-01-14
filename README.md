@@ -1,0 +1,2 @@
+# Weight_Initialization_Exercise
+Weight_Initialization_Exercise from Udacity
